@@ -70,3 +70,4 @@ chatbot_codtech.py: Python script for the chatbot
 
 This project description file
 
+![Image](https://github.com/user-attachments/assets/2d476fa9-9ea4-40f6-9d09-aca84053cac3)
